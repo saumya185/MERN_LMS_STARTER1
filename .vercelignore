@@ -1,0 +1,15 @@
+node_modules
+.env
+*.log
+.DS_Store
+.git
+src/
+README.md
+package-lock.json
+*.md
+test-*.js
+setup-*.js
+check-*.js
+enroll-*.js
+find-*.js
+update-*.js
